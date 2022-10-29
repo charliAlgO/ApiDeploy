@@ -1,8 +1,6 @@
-[
-  {
-    "slackUsername": "Charles Abu",
-    "Backend": true,
-    "Age": 30,
-    "Bio": "I am a Tech enthusiast with dreams of building innovative solutions through with Tech."
-  }
-]
+{
+  "slack username": "Charles Abu",
+  "backend": true,
+  "age": 30,
+  "bio": "I am a Tech enthusiast with dreams of building innovative solutions through with Tech."
+}
